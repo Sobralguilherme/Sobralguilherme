@@ -1,11 +1,13 @@
 
 ### Hi there 👋 
-I'm Guilherme This is a my second perfil from github, in this perfil i also have a create a very fun codes, view my principal githun and linkenidm inthis link
+I'm Guilherme This is a my second perfil from github, in this perfil i also have a create a very fun codes, view my principal githun and linkenidm and learn more about my work and my profile on:
 
-[![githubprincipal](https://github.com/guilhermesob)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermesob) 
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
-Software Engenieer, Cybersecurity Specialist, Full-Stack Developer, Systems Analyst and Developer, CTF Player and more... to learn more about my work see my profile on 
 
+## About me:
+
+Software Engenieer, Cybersecurity Specialist, Full-Stack Developer, Systems Analyst and Developer, CTF Player and more...
 <img src="https://tryhackme-badges.s3.amazonaws.com/guisobralmartins.png" alt="TryHackMe">
 
 
