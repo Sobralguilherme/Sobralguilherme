@@ -1,6 +1,6 @@
 
 ### Hi there 👋 
-I'm Guilherme This is a my second perfil from github, in this perfil i also have a create a very fun codes, view my principal github and linkendin, and learn more about my work and my profile on:
+I'm Guilherme This is a my second perfil from github, in this perfil i also have a create a very fun codes, view my principal github and linkedin, and learn more about my work and my profile on:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermesob) 
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
